@@ -1,5 +1,5 @@
 ### Hi there 🤘🏽
-Junior Full Stack Software Developer
+Junior Full Stack Software Engineer
 <!--
 **stevenlegere/stevenlegere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
