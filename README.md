@@ -1,17 +1,18 @@
-### Hi there 🤘🏽
-Junior Full Stack Software Engineer
-<!--
-**stevenlegere/stevenlegere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I'm a Junior developer trained in Full Stack Software Development at the esteemed School of Code, chosen from over 3500 applicants, I am now looking to firmly embed myself in the tech industry. During my studies I found myself most excited and driven by the various methods of testing, working tirelessly with Reacts Testing Library it has given me the foundations to make an immediate impact in the tech industry.
-
-Before the School of Code, I was the Picture Editor of Metro.co.uk, succeeding in a highly efficient and driven environment. I also hold a 1st Class BA HONS degree in Visual Communication from Birmingham City University.
+# 🌻 About Me:
+I'm a Junior developer trained in Full Stack Software Development at the esteemed School of Code, chosen from over 3500 applicants, I am now looking to firmly embed myself in the tech industry. During my studies I found myself most excited and driven by the various methods of testing, working tirelessly with Reacts Testing Library it has given me the foundations to make an immediate impact in the tech industry.<br><br>Before the School of Code, I was the Picture Editor of Metro.co.uk, succeeding in a highly efficient and driven environment. I also hold a 1st Class BA HONS degree in Visual Communication from Birmingham City University.<br><br>stevenlegere.dev<br>Margate, UK<br><br>School of Code<br><br>Full Stack Software Development Training<br>2023<br><br>During my training in full stack software development, I acquired a comprehensive set of skills and knowledge, these have included:<br><br><br>JavaScript: Engaged in daily intensive pair coding sessions, starting from fundamental concepts and progressing towards advanced problem-solving using core methods.<br><br>CSS Implemented CSS on a daily basis, incorporating grid and flex code to create responsive layouts.<br><br>UX/UI: Actively integrated design and user experience considerations throughout team projects. Utilised user stories, personas, and both low and high-fidelity wireframes to ensure optimal user interaction.<br><br>React: I worked collaboratively on projects using React and understanding the use of State. Implemented React Router for multi- page development.<br><br>Testing: Understand the importance of Test-Driven Development through the implementation of Jest and Playwright workflows, which have become my standard practice.<br>Node.js: In both solo and pair-programming, I developed projects on server-side using Node.js. Getting a true understanding of back- end applications and API’s<br><br>SQL: As part of my learning, I focused on relational databases and practiced standard methods of data organisation. We familiarised ourselves with CRUD operations for best data practices.<br><br><br><br><br><br><br><br><br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steven-legere-6b973476/) 
 
-- 🔭 I’m currently working on my School of Code Education
-- 🌱 JavaScript / HTML / CSS / Node.js / PostgreSQL
-- ⚡ Fun fact: I bake bread too
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stevenlegere&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stevenlegere&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlegere&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=stevenlegere&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
